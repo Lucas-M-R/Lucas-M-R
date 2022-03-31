@@ -13,7 +13,8 @@
 - 💬 Ask me about everything but horses and food
 - 📫 How to reach me: from my portfolio or contact[at]lucas-mr.fr
 - ⚡ Fun fact: So far, the only food I dislike is sea urchins
-- 
+
+
 My stack so far:
 
 
