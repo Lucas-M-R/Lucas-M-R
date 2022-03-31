@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Lucas-M-R/Lucas-M-R/blob/main/img/banner_bonjour.png?raw=true" alt="Bonjour et bienvenue sur mon profil Github"
+<img src="https://github.com/Lucas-M-R/Lucas-M-R/blob/main/img/banner_bonjour.png?raw=true" align="center" alt="Bonjour et bienvenue sur mon profil Github">
 
 
 ### Hi there 👋
@@ -26,6 +26,8 @@ Tools:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
