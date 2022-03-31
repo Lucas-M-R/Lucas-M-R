@@ -45,7 +45,8 @@ My stack so far:
 
 
 
-
+<!--
 [![Visits Badge](https://badges.pufler.dev/visits/Lucas-M-R/git-badges)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Lucas-M-R)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Lucas-M-R)](https://badges.pufler.dev)
+-->
