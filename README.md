@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on everything from landing pages to some big projects like web applications & Saas
 - 🤔 I’m looking for help with my skills
 - 💬 Ask me about everything but horses and food
-- 📫 How to reach me: from my portfolio or contact[at]lucas-mr.fr
+- 📫 How to reach me: from my [Portfolio](https://www.lucas-mr.fr/portfolio/) or contact[at]lucas-mr.fr
 - ⚡ Fun fact: So far, the only food I dislike is sea urchins
 
 
